@@ -6,6 +6,6 @@ This project implements fullstack development to create a website that resembles
 
 To visit the website:
 1. Start Apache and MySQL from XAMPP Control Panel.
-2. Search "https://localhost/[Path of home.php inside htdocs folder of xampp main folder]" to access user panel.
-3. Search "https://localhost/[Path of admin_login.php inside htdocs folder of xampp main folder]" to access admin panel.
+2. Search "https://localhost/ [Path of home.php inside htdocs folder of xampp main folder]" to access user panel.
+3. Search "https://localhost/ [Path of admin_login.php inside htdocs folder of xampp main folder]" to access admin panel.
 4. Search shop_db at "http://localhost/phpmyadmin/" to access database.
